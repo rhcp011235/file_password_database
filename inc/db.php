@@ -1,6 +1,8 @@
 <?php
 // /inc/db.php
 
+require_once 'env.php';
+
 $db_file = __DIR__ . '/../database/data.sqlite';
 
 try {
