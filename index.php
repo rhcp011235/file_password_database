@@ -77,5 +77,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <a href="admin/login.php">Admin Login</a>
         </p>
     </div>
+<br><br>
+<center>
+  <h1>
+    If you find this tool or any of my tools useful, please donate: 
+    <a href="http://donate.rhcp011235.com" target="_blank">http://donate.rhcp011235.com</a>
+  </h1>
+</center>
 </body>
 </html>
